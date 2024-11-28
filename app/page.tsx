@@ -1,7 +1,6 @@
-import UnitConverter from "@/components/unit-converter";
+import Calculator from "@/components/calculator";
 
 export default function Home() {
   return (<div>
-<UnitConverter/>    
-  </div>  );
+<Calculator/>  </div>  );
 }
